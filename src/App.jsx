@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <h2>Hello React</h2>
+        <h2>Ready to learn</h2>
         </div>
     </>
   )
